@@ -172,7 +172,7 @@ When adding a subcurrency, set the minimum trade total high enough to make econo
 
 #### Categories
 ```
-1 = Subcurrencies
+1 = Services
 2 = Crypto-currencies
 3 = Real-world assets
 4 = Fiat currencies
